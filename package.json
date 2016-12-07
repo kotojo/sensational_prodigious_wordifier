@@ -12,9 +12,7 @@
   "dependencies": {
     "koa": "^2.0.0",
     "thesaurus": "0.0.0",
-    "wordpos": "^1.1.0"
-  },
-  "devDependencies": {
+    "wordpos": "^1.1.0",
     "babel-plugin-transform-async-to-generator": "^6.16.0",
     "babel-preset-node6": "^11.0.0",
     "babel-register": "^6.18.0"
